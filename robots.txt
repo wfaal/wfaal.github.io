@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wfaal.github.io/jgi/sitemap.jgi.gz
